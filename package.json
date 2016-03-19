@@ -1,7 +1,7 @@
 {
   "name": "flux-pricing",
   "version": "0.0.1",
-  "description": "Pricing component with flux",
+  "description": "Pricing component with flux.",
   "main": "js/app.js",
   "dependencies": {
     "flux": "^2.0.0",
