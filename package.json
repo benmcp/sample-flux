@@ -1,0 +1,35 @@
+{
+  "name": "flux-pricing",
+  "version": "0.0.1",
+  "description": "Pricing component with flux",
+  "main": "js/app.js",
+  "dependencies": {
+    "flux": "^2.0.0",
+    "react": "^0.12.0",
+    "underscore": "^1.7.0"
+  },
+  "devDependencies": {
+    "browserify": "^11.0.1",
+    "envify": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-cache": "^0.4.3",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-load-plugins": "^1.2.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.3",
+    "gulp-util": "^3.0.7",
+    "imagemin-pngquant": "^4.2.2",
+    "reactify": "^0.15",
+    "rimraf": "^2.5.2",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "~2.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/username/repository.git"
+  },
+  "license": "MIT",
+  "author": "Ben McPhail"
+}
