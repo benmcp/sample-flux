@@ -1,4 +1,4 @@
 react-flux-cart
 ===============
 
-Code for the tutorial by @kenwheeler: Create a Shopping Cart Using React.js and Flux
+An extension of https://github.com/scotch-io/react-flux-cart using Gulp
